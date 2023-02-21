@@ -1,0 +1,15 @@
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\bin\Debug\net7.0\objectICompare.exe
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\bin\Debug\net7.0\objectICompare.deps.json
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\bin\Debug\net7.0\objectICompare.runtimeconfig.json
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\bin\Debug\net7.0\objectICompare.dll
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\bin\Debug\net7.0\objectICompare.pdb
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.csproj.AssemblyReference.cache
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.AssemblyInfoInputs.cache
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.AssemblyInfo.cs
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.csproj.CoreCompileInputs.cache
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.dll
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\refint\objectICompare.dll
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.pdb
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\objectICompare.genruntimeconfig.cache
+C:\Users\STEM-STUDENTS-24\source\repos\TM\objectICompare\objectICompare\obj\Debug\net7.0\ref\objectICompare.dll
