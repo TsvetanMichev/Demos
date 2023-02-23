@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OlympicsComparators11TM/1.0.0": {
+        "runtime": {
+          "OlympicsComparators11TM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OlympicsComparators11TM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

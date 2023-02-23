@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\bin\Debug\net7.0\OlympicsComparators11TM.exe
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\bin\Debug\net7.0\OlympicsComparators11TM.deps.json
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\bin\Debug\net7.0\OlympicsComparators11TM.runtimeconfig.json
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\bin\Debug\net7.0\OlympicsComparators11TM.dll
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\bin\Debug\net7.0\OlympicsComparators11TM.pdb
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.AssemblyInfo.cs
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.dll
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\refint\OlympicsComparators11TM.dll
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.pdb
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\OlympicsComparators11TM.genruntimeconfig.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\Olympics11TM\Olympics11TM\obj\Debug\net7.0\ref\OlympicsComparators11TM.dll

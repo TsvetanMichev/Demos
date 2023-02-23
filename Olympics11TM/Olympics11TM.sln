@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlympicsComparators11TM", "Olympics11TM\OlympicsComparators11TM.csproj", "{3CF6397B-31DD-4F8E-A212-0E79818B8C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF6397B-31DD-4F8E-A212-0E79818B8C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF6397B-31DD-4F8E-A212-0E79818B8C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF6397B-31DD-4F8E-A212-0E79818B8C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF6397B-31DD-4F8E-A212-0E79818B8C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7C10430-5619-4A0A-A017-787E4B5AD049}
+	EndGlobalSection
+EndGlobal
