@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\bin\Debug\MathFiguresFull.exe.config
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\bin\Debug\MathFiguresFull.exe
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\bin\Debug\MathFiguresFull.pdb
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\obj\Debug\MathShapesFull.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\obj\Debug\MathShapesFull.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\obj\Debug\MathShapesFull.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\obj\Debug\MathFiguresFull.exe
+C:\Users\STUDENTS-1211-4\source\repos\TM\MathFiguresFull\MathFiguresFull\obj\Debug\MathFiguresFull.pdb
